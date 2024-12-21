@@ -1,0 +1,34 @@
+# Please edit this config file to match your setup!
+
+# URL to the current navidrome instance
+navidrome_url = "http://localhost:4533"
+
+# The full path to the navidrome database file.
+navidrome_db_in_use = "…/Music/navidrome/navidrome.db"
+
+# The full directory to write backup navidrome databases to.
+backup_dir = "…/Music/navidrome/backups"
+
+# The backup navidrome database to restore from.
+navidrome_db_to_restore_from = "…/Music/navidrome/restore/navidrome.db"
+
+# The username of the user to restore track information for.
+user = "user"
+
+# The password of the user to restore track information for.
+password = "password"
+
+# The limit of how many similar tracks to return when searching for a track to restore information to.
+similar_track_search_limit = 5
+
+# If true then some information about a backup and how it's progressing is printed.
+# Set to false to not do this.
+backup_stdout = true
+
+# Configuration of pages per backup step as outlined in https://www.sqlite.org/backup.html
+# Smaller is slower, larger is faster
+backup_pages_per_step = 100
+
+# Configuration of pause between pages/backup step as outlined in https://www.sqlite.org/backup.html
+# The value is in milliseconds, smaller is faster, larger is slower.
+backup_pause_between_pages = 25

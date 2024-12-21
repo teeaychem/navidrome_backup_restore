@@ -1,0 +1,170 @@
+Establishing a connection with the current navidrome instance…
+Reading information from the backup navidrome database, this may take some time…
+Checking tracks in the current navidrome instance, this may take some time…
+
+Information for a song with the following attributes was found in the backup databse but not the current database:
+
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+       | Title     : Overworld Theme (Unused)
+       | Artist    : Super Mario World
+       | Album     : Various · 0 …
+       | Track     : 0
+       | Year      : 2016
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+
+What would you like to do?
+
+        [s]earch for a track to transfer metadata to
+        [c]ontinue checking the backup database
+        [q]uit
+
+s
+
+Found 1 candidate tracks.
+
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+       | Candidate: 1
+       | Track     = Overworld Theme (Unused)
+       | Artist    = Super Mario World
+       | Album     ? Various · 0 …  -> Various · ゲーム
+       | Track     ? 0 -> None
+       | Year      = 2016
+       | Play count? 206 -> 0
+       | Rating    ? 0 -> ???
+       | Starred   = false
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+
+Please enter a number for the candidate you'd like to use.
+Or, enter '0' to skip this track.
+
+1
+
+Ok, working with:
+
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+       | Track     = Overworld Theme (Unused)
+       | Artist    = Super Mario World
+       | Album     ? Various · 0 …  -> Various · ゲーム
+       | Track     ? 0 -> None
+       | Year      = 2016
+       | Play count? 206 -> 0
+       | Rating    ? 0 -> ???
+       | Starred   = false
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+
+What would you like to do?
+
+        [p] copy the play count
+        [r] copy the rating
+        [s] copy whether the track is starred
+        [e] copy everything
+        [f]inish
+        [q]uit
+
+e
+Ok, working with:
+
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+       | Track     = Overworld Theme (Unused)
+       | Artist    = Super Mario World
+       | Album     ? Various · 0 …  -> Various · ゲーム
+       | Track     ? 0 -> None
+       | Year      = 2016
+       | Play count= 206
+       | Rating    ? 0 -> ???
+       | Starred   = false
+       ------------------------------﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+
+What would you like to do?
+
+        [p] copy the play count
+        [r] copy the rating
+        [s] copy whether the track is starred
+        [e] copy everything
+        [f]inish
+        [q]uit
+
+f
+What would you like to do?
+
+        [s]earch for playlists which contained the track
+        [c]ontinue to the next track
+        [q]uit
+
+s
+
+The track was found in ２０２２の好きな歌 at position 7.
+
+The corresponding navidrome playlist does not contain the track.
+A suggested playlist (showing ±2 tracks around the change) is:
+
+２０２２の好きな歌
+
+       ⋮
+       5 怨魔の契り  --  庄司英徳  --  Various · ゲーム
+       6 NAVILLERA -JP ver.  --  여자친구 (GFRIEND)  --  今日から私たちは ~GFRIEND 1st BEST~
+       7 Overworld Theme (Unused)  --  Super Mario World  --  Various · ゲーム
+       8 CHIQUITA  --  로켓펀치 (Rocket Punch)  --  YELLOW PUNCH
+       9 夢の浮世に咲いてみな  --  ももいろクローバーZ vs KISS  --  白金の夜明け
+       ⋮
+
+What would you like to do?
+
+        [b] add the track to the beginning of the playlist
+        [e] add the track to the end of the playlist
+        [s] add the track to the suggested position in the playlist
+        [f]inish
+        [q]uit
+
+s
+Checking other tracks in the current navidrome instance, this may take some time…
+
+The track was found in 運動　一番目 at position 1.
+
+The corresponding navidrome playlist does not contain the track.
+A suggested playlist (showing ±2 tracks around the change) is:
+
+運動　一番目
+
+       0 Bowser's Castle  --  [Unknown Artist]  --  YUMP 2
+       1 Overworld Theme (Unused)  --  Super Mario World  --  Various · ゲーム
+       2 Spending all my time  --  Perfume  --  Perfume The Best "P Cubed"
+       3 Infinity 2018 (Klaas remix edit)  --  Sean Finn & Guru Josh  --  Various · RA
+       ⋮
+
+What would you like to do?
+
+        [b] add the track to the beginning of the playlist
+        [e] add the track to the end of the playlist
+        [s] add the track to the suggested position in the playlist
+        [f]inish
+        [q]uit
+
+s
+Checking other tracks in the current navidrome instance, this may take some time…
+
+The track was found in 運動　二番目 at position 0.
+
+The corresponding navidrome playlist does not contain the track.
+No suggestion of where to place the track could be made.
+A suggested playlist (showing ±2 tracks around the change) is:
+
+運動　二番目
+
+       ⋮
+      54 Have, Don't Have (있기 없기)  --  Dal★Shabet  --  있기 없기 Have, Don't Have!
+      55 OOH-AAH하게  --  트와이스 (TWICE)  --  Various · K-POP
+      56 Overworld Theme (Unused)  --  Super Mario World  --  Various · ゲーム
+
+What would you like to do?
+
+        [b] add the track to the beginning of the playlist
+        [e] add the track to the end of the playlist
+        [s] add the track to the suggested position in the playlist
+        [f]inish
+        [q]uit
+
+s
+Checking other tracks in the current navidrome instance, this may take some time…
+Finished checking playlists.
+Finished checking tracks in the current navidrome instance.
