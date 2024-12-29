@@ -105,7 +105,7 @@ For example, navidrome stores information about when a track was starred, but th
 
 ## Backup
 
-The online backup is made in line with the example from (sqlite.org)[https://www.sqlite.org/backup.html], following (rusqlite)[https://docs.rs/rusqlite/latest/rusqlite/index.html]'s (equivalent)[https://docs.rs/rusqlite/latest/rusqlite/backup/index.html].
+The online backup is made in line with the example from [sqlite.org](https://www.sqlite.org/backup.html), following [rusqlite](https://docs.rs/rusqlite/latest/rusqlite/index.html)'s [equivalent](https://docs.rs/rusqlite/latest/rusqlite/backup/index.html).
 
 Backups are saved to a directory as specified in the config.toml file, and are marked with a unix time stap in miliseconds.
 
